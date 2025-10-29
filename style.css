@@ -239,7 +239,7 @@ text-align: center;
 
 .form .link a{
   text-decoration: none;
-  color: white;
+  color: yellow;
 }
 
 .liw{
@@ -247,4 +247,19 @@ text-align: center;
   padding-bottom: 10px;
   text-align: center;
 }
+
+.icons a{
+  text-decoration: none;
+  color: yellowgreen;
+}
+
+.icons ion-icon{
+  color: rgb(238, 119, 238);
+  font-size: 30px;
+  padding-left: 14px;
+  padding-top: 5px;
+}
  
+icons ion-icon:hover{
+color: yellow;
+}
