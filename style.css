@@ -77,18 +77,17 @@ ul li a:hover {
   align-content: center;
   justify-items: center;
   justify-content: center;
-  
 }
 
 .srch {
   font-family: sans-serif;
   width: 150px;
   height: 40px;
-  background: rgb(83, 76, 76);
-  border: 1px solid black;
-  /* margin-top: 13px; */
+  background: black;
+  border: 1px solid white;
+  margin-top: 5px;
   border-right: none;
-  color: black;
+  color: yellow;
   font-size: 16px;
   float: left;
   /* padding: 10px; */
@@ -96,16 +95,16 @@ ul li a:hover {
 }
 
 .btn {
-  width: 80px;
+  width: 90px;
   height: 30px;
   border: 2px solid white;
-  margin-left: 7px;
+  margin-left: 1px;
   background: black;
-  /* margin-top: 13px; */
+  margin-top: 8px;
   color: yellow;
   font-size: 16px;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-radius: 5px;
+  
 }
 
 .btn:focus {
